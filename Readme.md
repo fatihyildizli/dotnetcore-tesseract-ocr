@@ -13,7 +13,7 @@ Request **(Form-data)** :
 ![Alt](/wiki/sampleRequest.PNG "Sample")
 
 **Tesseract Supported Language**
-This project supports only english and arabic language. If you want different language, You must download traineddata from below list. 
+This project supports only english language. If you want different language, You must download traineddata from below list. 
 
 #### Language List  
 Lang Code | Language | 4.0 traineddata
