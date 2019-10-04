@@ -1,10 +1,21 @@
-**Tesseract Supported Language**
+#### Brief:
+This project (POC) consists of how to implement Tesseract OCR engine in dotnetcore.
 
-localhost:2000/api/ocr
+#### API Endpoint: localhost:2000/api/ocr
 
+#### Example Usage 
+Request **(Form-data)** : 
 
-
+ **DestinationLanguage:** Nationality Prefix { TR,ENG,ARA ... }  
  
+ **Image:** Select postman UI file type
+
+![Alt](/wiki/sampleRequest.PNG "Sample")
+
+**Tesseract Supported Language**
+This project supports only english and arabic language. If you want different language, You must download traineddata from below list. 
+
+#### Language List  
 Lang Code | Language | 4.0 traineddata
 :---------| :------- | :---------------
 afr | Afrikaans | [afr.traineddata](https://github.com/tesseract-ocr/tessdata/raw/4.00/afr.traineddata)
@@ -109,3 +120,8 @@ uzb | Uzbek | [uzb.traineddata](https://github.com/tesseract-ocr/tessdata/raw/4.
 uzb_cyrl | Uzbek - Cyrillic | [uzb_cyrl.traineddata](https://github.com/tesseract-ocr/tessdata/raw/4.00/uzb_cyrl.traineddata)
 vie | Vietnamese | [vie.traineddata](https://github.com/tesseract-ocr/tessdata/raw/4.00/vie.traineddata)
 yid | Yiddish | [yid.traineddata](https://github.com/tesseract-ocr/tessdata/raw/4.00/yid.traineddata)
+
+#### Libraries: 
+https://github.com/tesseract-ocr/tesseract 
+https://github.com/tesseract-ocr/tessdata 
+
