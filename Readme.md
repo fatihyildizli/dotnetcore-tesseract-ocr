@@ -2,6 +2,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/fatihyildizli/dotnetcore-tesseract-ocr.svg)](https://github.com/fatihyildizli/dotnetcore-tesseract-ocr/network/members)
 [![Total Downloads](https://img.shields.io/packagist/dt/fatihyildizli/dotnetcore-tesseract-ocr.svg?style=flat-square)](https://packagist.org/packages/fatihyildizli/dotnetcore-tesseract-ocr)
 ![License](https://img.shields.io/github/license/fatihyildizli/dotnetcore-tesseract-ocr)
+![Code size](https://img.shields.io/github/repo-size/fatihyildizli/dotnetcore-tesseract-ocr)
+![Top Language](https://img.shields.io/github/languages/top/fatihyildizli/dotnetcore-tesseract-ocr)
+![Languages](https://img.shields.io/github/languages/count/fatihyildizli/dotnetcore-tesseract-ocr)
+![Views](https://img.shields.io/github/search/fatihyildizli/dotnetcore-tesseract-ocr/dotnetcore-tesseract-ocr)
 
 
 #### Brief:
