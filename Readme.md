@@ -1,3 +1,8 @@
+[![GitHub stars](https://img.shields.io/github/stars/fatihyildizli/dotnetcore-tesseract-ocr.svg)](https://github.com/fatihyildizli/dotnetcore-tesseract-ocr/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fatihyildizli/dotnetcore-tesseract-ocr.svg)](https://github.com/fatihyildizli/dotnetcore-tesseract-ocr/network/members)
+[![Total Downloads](https://img.shields.io/packagist/dt/fatihyildizli/dotnetcore-tesseract-ocr.svg?style=flat-square)](https://packagist.org/packages/fatihyildizli/dotnetcore-tesseract-ocr)
+
+
 #### Brief:
 This project (POC) consists of how to implement Tesseract OCR engine in dotnetcore.
 
