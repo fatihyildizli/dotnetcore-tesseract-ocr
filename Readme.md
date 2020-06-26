@@ -11,6 +11,8 @@
 #### Brief:
 This project (POC) consists of how to implement Tesseract OCR engine in dotnetcore.
 
+Medium Link: https://medium.com/@fatih_yildizli/tesseract-ocr-implementation-in-net-core-spring-boot-6f876a5d4ae5
+
 #### API Endpoint: localhost:2000/api/ocr
 
 #### Example Usage 
